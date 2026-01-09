@@ -64,13 +64,15 @@ The model is evaluated using standard image captioning metrics:
 ---
 
 ## 📁 Repository Structure
+<pre>
 .
 ├── notebook/
-│ └── image_captioning.ipynb
+│   └── image_captioning.ipynb
 ├── report/
-│ └── CLIP_Distilled_ShuffleNetV2.pdf
+│   └── CLIP_Distilled_ShuffleNetV2.pdf
 ├── requirements.txt
 └── README.md
+</pre>
 
 
 ---
@@ -100,4 +102,3 @@ B.Tech CSE (AIML), VIT Vellore
 This repository is intended as a **project demonstration** for learning and experimentation in efficient deep learning and image captioning.
 
 
-## 📁 Repository Struc
